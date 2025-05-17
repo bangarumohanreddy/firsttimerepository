@@ -5,7 +5,7 @@ Repositories can be:
 Local: Stored on your computer.
 Remote: Hosted on a server (like GitHub, GitLab, Bitbucket), allowing for collaboration.
 
-Working Directory: This is the directory on your computer where you have the files of your project. It's where you make your edits.
+Working Directory: This is the directory/ on your computer where you have the files of your project. It's where you make your edits.
 
 Staging Area (Index): This is an intermediate area where you prepare the changes you've made in your working directory for the next commit. You selectively add (stage) the files you want to include in your commit. Think of it as a "draft" area for your changes.
 
